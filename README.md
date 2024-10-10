@@ -1,6 +1,6 @@
 # git_pro
  if the xyz is the branch name
-## vier branch list: 
+## view branch list: 
  ```console
  $ git branch
 ```
