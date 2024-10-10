@@ -23,4 +23,4 @@ $ git branch -d xyz
 ```console
 $ git checkout main -> git branch x1y2z3 x3y2z1
 ```
-
+```
