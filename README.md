@@ -1,26 +1,28 @@
 
 # git_pro
-```markdown
+## branch related 
 
-
-## View Branch List
+### View Branch List
 To view the list of branches, use the following command:
 ```console
 $ $ git branch xyz
 ```
-## Create branch   :
+
+### Create branch   :
+To create a new branch named xyz, use the following command:
 ```console
 $ git branch xyz
 ```
 
-## Delete branch   :
+### Delete branch   :
 To delete the branch named xyz, use the following command:
 ```console
 $ git branch -d xyz
 ```
 
-## Merge branch   :
+### Merge branch   :
+To merge branch x1y2z3 into main, use the following commands:
 ```console
-$ git checkout main -> git branch x1y2z3 x3y2z1
+$ git checkout main -> $git merge x1y2z3 x3y2z1
 ```
-```
+
