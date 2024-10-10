@@ -1,8 +1,12 @@
+
+### Improved Content:
+```markdown
 # git_pro
- if the xyz is the branch name
-## View branch list: 
- ```console
- $ git branch
+
+## View Branch List
+To view the list of branches, use the following command:
+```console
+$ git branch
 ```
 ## Create branch   :
 ```console
@@ -18,3 +22,4 @@ $ git branch -d xyz
 ```console
 $ git checkout main -> git branch x1y2z3 x3y2z1
 ```
+
