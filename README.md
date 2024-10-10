@@ -1,6 +1,6 @@
 
 # git_pro
-## branch related 
+## BRANCH related 
 
 ### View Branch List
 To view the list of branches, use the following command:
