@@ -23,6 +23,6 @@ $ git branch -d xyz
 ### Merge branch   :
 To merge branch x1y2z3 into main, use the following commands:
 ```console
-$ git checkout main -> $git merge x1y2z3 x3y2z1
+$ git checkout main -> $ git merge x1y2z3 x3y2z1
 ```
 
