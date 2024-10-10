@@ -1,20 +1,20 @@
 # git_pro
  if the xyz is the branch name
-## view branch list: 
+## View branch list: 
  ```console
  $ git branch
 ```
-## create branch   :
+## Create branch   :
 ```console
 $ git branch xyz
 ```
 
-##delete branch   :
+## Delete branch   :
 ```console
 $ git branch -d xyz
 ```
 
-##merger branch   :
+## Merger branch   :
 ```console
 $ git checkout main -> git branch x1y2z3 x3y2z1
 ```
