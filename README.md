@@ -27,6 +27,8 @@ $ git checkout main -> $ git merge x1y2z3 x3y2z1
 ```
 
 # REFERENCE
+| Tables   |      Are      | 
+|----------|:-------------:|
 |git init                 :|Initialize a new Git repository.|
 |git clone [url]          :|Clone a repository from a URL.|
 |git add [file]           :|Add files to the staging area.|
