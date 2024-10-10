@@ -26,3 +26,15 @@ To merge branch x1y2z3 into main, use the following commands:
 $ git checkout main -> $ git merge x1y2z3 x3y2z1
 ```
 
+# REFERENCE
+|git init                 :|Initialize a new Git repository.|
+|git clone [url]          :|Clone a repository from a URL.|
+|git add [file]           :|Add files to the staging area.|
+|git commit -m "[message]":|Commit changes with a message.|
+|git status               :|Show the working tree status.|
+|git log                  :|Show commit logs.|
+|git branch               :|List, create, or delete branches.|
+|git checkout [branch]    :|Switch to a branch.|
+|git merge [branch]       :|Merge a branch into the current branch.|
+|git pull                 :|Fetch and integrate changes from a remote repository.|
+|git push                 :|Push changes to a remote repository.|
