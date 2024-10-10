@@ -5,7 +5,7 @@
 ### View Branch List
 To view the list of branches, use the following command:
 ```console
-$ git branch xyz
+$ git branch
 ```
 
 ### Create branch   :
