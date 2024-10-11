@@ -1,3 +1,8 @@
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
 
 # git_pro
 ## BRANCH related 
