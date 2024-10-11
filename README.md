@@ -35,7 +35,7 @@ $ git checkout main -> $ git merge x1y2z3 x3y2z1
 |git commit -m "[message]":|Commit changes with a message.|
 |git status               :|Show the working tree status.|
 |git log                  :|Show commit logs.|
-|git branch               :|List, create, or delete branches.|
+|<span style="color:blue">git branch *blue* text</span>.              :|List, create, or delete branches.|
 |git checkout [branch]    :|Switch to a branch.|
 |git merge [branch]       :|Merge a branch into the current branch.|
 |git pull                 :|Fetch and integrate changes from a remote repository.|
