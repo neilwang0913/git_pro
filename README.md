@@ -30,10 +30,10 @@ $ git checkout main -> $ git merge x1y2z3 x3y2z1
 | I am  |      ME      | 
 |----------|:-------------:|
 |git add [file]           :|Add files to the staging area.|
+|git branch               :|List, create, or delete branches.|
 |git clone (url)[url]     :|Clone a repository from a URL.|
 |git commit -m "[message]":|Commit changes with a message.|
 |git diff/difftool        :|Compare changes with a message.|
-|git branch               :|List, create, or delete branches.|
 |git checkout [branch]    :|Switch to a branch.|
 |git init                 :|Initialize a new Git repository.|
 |git log                  :|Show commit logs.|
