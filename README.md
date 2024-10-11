@@ -29,14 +29,18 @@ $ git checkout main -> $ git merge x1y2z3 x3y2z1
 # REFERENCE
 | Tables   |      Are      | 
 |----------|:-------------:|
-|git init                 :|Initialize a new Git repository.|
-|git clone [url]          :|Clone a repository from a URL.|
 |git add [file]           :|Add files to the staging area.|
+
+|git clone (url)[url]          :|Clone a repository from a URL.|
+
 |git commit -m "[message]":|Commit changes with a message.|
-|git status               :|Show the working tree status.|
-|git log                  :|Show commit logs.|
+
+|git diff/difftool:|Commit changes with a message.|
 |git branch               :|List, create, or delete branches.|
 |git checkout [branch]    :|Switch to a branch.|
+|git init                 :|Initialize a new Git repository.|
+|git log                  :|Show commit logs.|
 |git merge [branch]       :|Merge a branch into the current branch.|
 |git pull                 :|Fetch and integrate changes from a remote repository.|
 |git push                 :|Push changes to a remote repository.|
+|git status               :|Show the working tree status.|
