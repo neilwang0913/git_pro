@@ -1,8 +1,4 @@
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+<code style="color : name_color">text</code>
 
 # git_pro
 ## BRANCH related 
