@@ -1,5 +1,3 @@
-<code style="color : blue">text</code>
-
 # git_pro
 ## BRANCH related 
 
