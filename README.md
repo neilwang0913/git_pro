@@ -30,12 +30,9 @@ $ git checkout main -> $ git merge x1y2z3 x3y2z1
 | Tables   |      Are      | 
 |----------|:-------------:|
 |git add [file]           :|Add files to the staging area.|
-
-|git clone (url)[url]          :|Clone a repository from a URL.|
-
+|git clone (url)[url]     :|Clone a repository from a URL.|
 |git commit -m "[message]":|Commit changes with a message.|
-
-|git diff/difftool:|Commit changes with a message.|
+|git diff/difftool        :|Compare changes with a message.|
 |git branch               :|List, create, or delete branches.|
 |git checkout [branch]    :|Switch to a branch.|
 |git init                 :|Initialize a new Git repository.|
