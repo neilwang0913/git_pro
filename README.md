@@ -1,4 +1,4 @@
-<code style="color : name_color">text</code>
+<code style="color : blue">text</code>
 
 # git_pro
 ## BRANCH related 
